@@ -1,3 +1,10 @@
+# Please note
+
+This is a fork of [martomo/SublimeTextXdebug](https://github.com/martomo/SublimeTextXdebug). I use it to patch some issues in branch "meengit."
+
+Original description by [martomo](https://github.com/martomo):
+
+
 # SublimeTextXdebug
 Xdebug debugger client integration for Sublime Text.
 
